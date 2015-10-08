@@ -1,0 +1,11 @@
+Tests Launch results :  TestSuite, DummyTest
+
+Execution time: 00m:39s
+Passed:  3; Test_01, Test_02, Dummy_test
+Failed:  0; 
+Failures details: 
+
+Executing time for passed and failed tests:
+Dummy_test=00m:00s
+Test_02=00m:04s
+Test_01=00m:35s
